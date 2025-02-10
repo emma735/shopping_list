@@ -29,6 +29,10 @@
     margin: 30px auto;
     padding: 20px;
   }
+
+.edit-mode {
+  color: #9c2f2f;
+}
   
   /* Form & Input */
   .form-input {
